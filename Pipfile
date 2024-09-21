@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+nose = "*"
+behave = "*"
+selenium = "*"
+behave-html-formatter = "*"
+allure-behave = "*"
+faker = "*"
+pyautogui = "*"
 
 [dev-packages]
 
