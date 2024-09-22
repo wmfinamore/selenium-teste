@@ -1,8 +1,23 @@
-## Dependencias a serem instaladas no projeto
-nose
-behave
-selenium
-behave-html-formatter
+## Dependeica a serem instaladas no projeto
 allure-behave
+allure-python-commons
+behave
+behave-html-formatter
 faker
-pyautogui
+idna
+parse
+parse-type
+pip
+pluggy
+pycparser
+PySocks
+python-dateutil
+pytz
+selenium
+webdriver-manager
+six
+sniffio
+trio
+trio-websocket
+typing_extensions
+urllib3
